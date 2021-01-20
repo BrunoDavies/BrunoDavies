@@ -1,7 +1,7 @@
 # :raised_hands: やあ / Hoi / Привет I'm Bruno :raised_hands:
 I am: 
 - a Computer Science student at the **University of York** :books:
-- on a placement year at **Lhasa Limited** builing scientific software :microscope:
+- on a placement year at **Lhasa Limited** building scientific software :microscope:
 - trying to expand my **personal** developement skills :seedling:
 
 ## :bulb: Projects
