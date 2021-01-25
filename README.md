@@ -14,4 +14,4 @@ I am:
 ## :speech_balloon: Contact me!
 [:link: LinkedIn](https://www.linkedin.com/in/bruno-davies-653a05175)
 
-![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunodavies&count_private=true&show_icons=true&theme=gruvbox)
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunodavies&count_private=true&show_icons=true&theme=material-palenight)
