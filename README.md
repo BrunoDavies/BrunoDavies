@@ -1,4 +1,4 @@
-# :raised_hands: やあ / Hoi / مرحبا I'm Bruno :raised_hands:
+# :raised_hands: Hey I'm Bruno :raised_hands:
 I am: 
 - a Computer Science student at the **University of York** :books:
 - ex-placement software developer at **Lhasa Limited** building scientific software :microscope:
